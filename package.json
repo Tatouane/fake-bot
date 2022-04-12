@@ -2,7 +2,7 @@
   "name": "slimebot",
   "version": "1.0.0",
   "description": "Bot du slimeShop",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
