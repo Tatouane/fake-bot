@@ -4,8 +4,7 @@
   "description": "Bot du slimeShop",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "run": "node bot.js"
+    "start": "node bot.js"
   },
   "author": "Tatouane#0830",
   "license": "ISC",
